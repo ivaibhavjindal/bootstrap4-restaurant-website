@@ -93,7 +93,7 @@ module.exports = function (grunt) {
                 flow: {
                     steps: {
                         css: ['cssmin'],
-                        js:['uglify']
+                        js: ['uglify']
                     },
                     post: {
                         css: [{
